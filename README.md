@@ -1,5 +1,5 @@
 # Introduction
-Welcome to the data job market, focusing on Data Scientist roles, in this project i explored top paying jobs, indemand skills and where high demand meets high salary in Data Science
+Welcome to the data job market analysis, focusing on Data Scientist roles, in this project i explored top paying jobs, indemand skills and where high demand meets high salary in Data Science
 SQL Queries? Check them out here: [project_sql folder](/project_sql/)
 
 # Background
